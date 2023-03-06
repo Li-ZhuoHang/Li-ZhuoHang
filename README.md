@@ -8,12 +8,12 @@
 
 <br>
 <p align="left">
-  Hi, I'm shuohao yang, An avid fan of game engines
+  Hi, I'm zhuohang li, An avid fan of game engines and computer graphics
   <br>
   <br>   
-  🔬 I am currently working at Kingsoft as a game engine development engineer   
+  🔬 I am currently a junior student 
   <br>  
-  🎓 I graduated from Guilin University of Electronic Science and Technology with a degree in Digital Media Technology
+  🎓 I graduated from Guangdong University of Technology Science
   <br>
   💻 I am extremely passionate about everything related to computers
   <br>
