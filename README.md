@@ -42,7 +42,8 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=li-zhuohang&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  ### 荣誉奖项
+  <img src="./images/Honorary_awards.png" width="100%"/>
 </p>
 
 <hr>
