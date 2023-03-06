@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+shuohao+yang....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+zhuohang+li....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -19,9 +19,9 @@
   <br>
   📚 I have a dream: homemade computer, homemade operating system, homemade compiler, homemade programming language, using homemade programming language to write games, using homemade compiler to compile homemade programming language, using homemade operating system to run this homemade game, using homemade computer to run homemade operating system.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/yang-shuohao/yang-shuohao/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Li-ZhuoHang/Li-ZhuoHang/pulls" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: 2499134263@qq.com">2499134263@qq.com</a>
+  📫 How to reach me: <a href="mailto: 805557409@qq.com">805557409@qq.com</a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
