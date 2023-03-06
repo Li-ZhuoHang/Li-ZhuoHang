@@ -43,10 +43,10 @@
   </div>
   <br>
   ### 荣誉奖项
-  <br><a href=""><code><img height="20" src="./images/cup.png"></code></a> 获得《广东省大学生计算机设计大赛第三等奖》和《广东省机器人与人工智能大赛第二等奖》<br>
-  <br><a href=""><code><img height="20" src="./images/scholarship.png"></code></a> 《广东工业大学2021-2022学年优秀学生奖学金》和《广东工业大学2021-2022学年学习进步奖学金》<br>
-  <br><a href=""><code><img height="20" src="./images/Project.png"></code></a> 拥有多项项目的开发经验，曾开发过《“文”字》、《人生如戏》、《车道减少场景下的智能网联车辆仿真平台》、《基于DirectX11制作的赛车模拟渲染器》、《魂类游戏》等项目<br>
-  <br><a href=""><code><img height="20" src="./images/games.png"></code></a> 曾参加过《minigame》、《腾讯高校游戏创意大赛》、《大学生计算机设计大赛》、《机器人与人工智能大赛》等多个比赛<br>
+  <br><a href="https://github.com/Li-ZhuoHang/Li-ZhuoHang/blob/master/README.md"><code><img height="20" src="./images/cup.png"></code></a> 获得《广东省大学生计算机设计大赛第三等奖》和《广东省机器人与人工智能大赛第二等奖》<br>
+  <br><a href="https://github.com/Li-ZhuoHang/Li-ZhuoHang/blob/master/README.md"><code><img height="20" src="./images/scholarship.png"></code></a> 《广东工业大学2021-2022学年优秀学生奖学金》和《广东工业大学2021-2022学年学习进步奖学金》<br>
+  <br><a href="https://github.com/Li-ZhuoHang/Li-ZhuoHang/blob/master/README.md"><code><img height="20" src="./images/Project.png"></code></a> 拥有多项项目的开发经验，曾开发过《“文”字》、《人生如戏》、《车道减少场景下的智能网联车辆仿真平台》、《基于DirectX11制作的赛车模拟渲染器》、《魂类游戏》等项目<br>
+  <br><a href="https://github.com/Li-ZhuoHang/Li-ZhuoHang/blob/master/README.md"><code><img height="20" src="./images/games.png"></code></a> 曾参加过《minigame》、《腾讯高校游戏创意大赛》、《大学生计算机设计大赛》、《机器人与人工智能大赛》等多个比赛<br>
 </p>
 
 <hr>
