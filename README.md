@@ -13,7 +13,7 @@
   <br>   
   🔬 I am currently a junior student 
   <br>  
-  🎓 I graduated from Guangdong University of Technology Science
+  🎓 As a dedicated student at Guangdong University of Technology Science, I am constantly challenged and motivated to excel.
   <br>
   💻 I am extremely passionate about everything related to computers
   <br>
