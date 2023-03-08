@@ -56,7 +56,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Li-ZhuoHang/DirectX11-s-Racing-renderer" title="DirectX11-s-Racing-renderer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=li-zhuohang&repo=DirectX11-s-Racing-renderer&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Li-ZhuoHang/FFTOceanWave_by_Unity" title="FFTOceanWave_by_Unity"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=li-zhuohang&repo=FFTOceanWave_by_Unity&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Li-ZhuoHang/FFTOceanWave_by_Unity" title="FFTOceanWave_by_Unity"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=li-zhuohang&repo=FFTOceanWave_by_Unity&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
